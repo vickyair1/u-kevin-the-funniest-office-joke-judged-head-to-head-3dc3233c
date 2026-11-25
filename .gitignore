@@ -1,0 +1,7 @@
+# make.fun kit (downloaded, never committed)
+u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c-kit/
+*.tar.gz
+*.bundle.tar.gz
+*.out
+*.err
+__pycache__/

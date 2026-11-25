@@ -1,0 +1,1 @@
+Write one short joke about office life, at most 200 characters, as a deterministic Python program that writes exactly that line to /output/entry.txt.
